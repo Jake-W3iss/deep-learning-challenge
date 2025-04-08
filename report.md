@@ -1,6 +1,6 @@
 ﻿
 
-1.  **Overview**  of the analysis: Explain the purpose of this analysis. The purpose of the analysis is to figure out through the use of neural network if we could accurately predict if a charity project would get funding.
+1.  **Overview**  of the analysis: Explain the purpose of this analysis. The purpose of the analysis is to figure out through the use of neural network if we could accurately predict if a charity project would use funding successfully. 
     
 2.  **Results**: Using bulleted lists and images to support your answers, address the following questions:
     
